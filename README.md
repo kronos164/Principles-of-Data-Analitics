@@ -1,5 +1,6 @@
 # Principles of Data Analitics
 
+***
 Repository for ATU module assessment 
 
 ## About This Project
@@ -8,9 +9,11 @@ This project is centered on the analysis of the [Palmer Penguins dataset](https:
 
 ## Get Started
 
-The project was writen in a Jupiter notebook and you can visualize it on the file "penguins.ipynb" in this repository.
+The project was writen in a Jupiter notebook and you can visualize it on the file ["penguins.ipynb"](https://github.com/kronos164/Principles-of-Data-Analitics/blob/main/penguings.ipynb) in this repository.
 
 ## Author
+
+***
 
 #### About me:
 
